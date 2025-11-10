@@ -15,6 +15,7 @@ public class Addition {
     add.sum();
 	  
 	  
+    //adding  numbers is called  addition
 	  }
 
 	}
